@@ -29,6 +29,4 @@
 *.exe
 *.out
 *.app
-hello
-change
-hello_world
+main
